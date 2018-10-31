@@ -10,3 +10,4 @@ kapital_koncowy=kapital_poczatkowy + zysk
 
 print('Twoje środki w wysokości {}zł przez {} lat urosną do {}zł.' .format(kapital_poczatkowy, czas_lata, kapital_koncowy))
 print(tytul)
+print(tytul)
